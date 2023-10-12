@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "248789009191",
+    "project_id": "tarashly-e3a36",
+    "storage_bucket": "tarashly-e3a36.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:248789009191:android:636124e51e0d1e40af1f02",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1_day4"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEh2GbVgq3D0C5s61WNXdlP6x7E8D4wgk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
